@@ -1,0 +1,15 @@
+[user]
+	email = filip.gorny@gmail.com
+	name = Filip Gorny
+
+[alias]
+	st = status
+	cm = commit
+	br  = branch
+	co = checkout
+	aa = add -A
+	pu = push
+[push]
+	default = current
+[init]
+	defaultBranch = main
